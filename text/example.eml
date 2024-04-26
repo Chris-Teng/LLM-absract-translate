@@ -1,0 +1,217 @@
+Received: from o3.pigeon.quora.com (unknown [52.21.114.224])
+	by zwqz-mx-mta-g3-0 (Coremail) with SMTP id _____wCHsz0Dgepkomj3AQ--.25813S3;
+	Sun, 27 Aug 2023 06:47:33 +0800 (CST)
+Received: 
+	by pigeon-at-10045 (OpenSMTPD) with ESMTP id f8ab1b8b
+	for <tengyoubiao@126.com>;
+	Sat, 26 Aug 2023 22:47:30 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=poe.com; h=
+	content-type:mime-version:from:to:subject:date:message-id; s=
+	pigeon; bh=vaPrVuIEFi18rWbrmoRLNwn/2Rs=; b=Zx6pRqyZUnE8qKehQJ/ht
+	4lsty0ZGiLFpI2Fx7Pp41YXYgK/zp6LT8LPjCz03HKxngoI5xJq7nK7ARCGV2VeZ
+	Wpauc/HAX7QjAJrcZv4YOjeHh28A7uv59QKb2XT4XTLLcohXljg5yMoj/GUk9PwP
+	IXNINARuFXUPR0Vm6hP8ZEUiWyqEgyOOQg0KZ96ozE6X+Yc/3pIE5ndib8/PIEn7
+	w1RpZMljQD9ltnu+EdnpPzI2EB8rbPJSYmmiGHn+cqbApIu0uNpG44R4F+Bb2JYm
+	Pj1r/liOvDC83lmvdSo30zr+zqtw2YQfDH6fIWn9O+8aR5Q2F3M7alhkvRpKLezR
+	Q==
+Content-Type: multipart/alternative;
+ boundary="===============5183216882061110846=="
+MIME-Version: 1.0
+From: Poe <product-updates@poe.com>
+To: tengyoubiao@126.com
+Subject: =?utf-8?q?Poe_updates=3A_Threading=2C_Bot_search=2C_Llama_2=2C_custom_temper?=
+ =?utf-8?q?ature=2C_Poe_for_Mac=2C_and_Poe_in_Japanese?=
+X-CID: VWesbd-EaP_FmYl2QQwxUIeFZc-QWmr8J-OBxoY5r6gjRVvIBpnlIxtZdSTCtJXL64KZ-yxngADtezA1ftFM4L8Vre2ATsnxuDX8z71jO7oskcw37317_0w8ZDuK_iHvZWRkfgABAgA=
+Date: Sat, 26 Aug 2023 22:47:30 +0000
+Message-ID: <VWesbd-EaP_FmYl2QQwxUIeFZc-QWmr8J-OBxoY5r6gjRVvIBpnlIxtZdSTCtJXL64KZ-yxngADtezA1ftFM4L8Vre2ATsnxuDX8z71jO7oskcw37317_0w8ZDuK_iHvZWRkfgABAgA=@t2.msgid.quoramail.com>
+X-SMTPAPI: =?utf-8?q?=7B=22unique=5Fargs=22=3A_=7B=22Message-ID=22=3A_=22=3CVWesbd-EaP?=
+ =?utf-8?q?=5FFmYl2QQwxUIeFZc-QWmr8J-OBxoY5r6gjRVvIBpnlIxtZdSTCtJXL64KZ-yxng?=
+ =?utf-8?q?ADtezA1ftFM4L8Vre2ATsnxuDX8z71jO7oskcw37317=5F0w8ZDuK=5FiHvZWRkfg?=
+ =?utf-8?q?ABAgA=3D=40t2=2Emsgid=2Equoramail=2Ecom=3E=22=2C_=22account=22=3A?=
+ =?utf-8?q?_=22poe=5Fmain=22=2C_=22email=5Ftype=22=3A_null=2C_=22ip=5Fpool?=
+ =?utf-8?q?=22=3A_=22main=22=2C_=22X-QMSG=22=3A_=22n1F5GMhKgx6HOv1tYEP2x0fcc?=
+ =?utf-8?q?MexIH6yJCwGZVauE8X9n5ByE3YT=5FdBS7O9Ag70QxcdhGYRpquGA24rbj-Npp0PN?=
+ =?utf-8?q?UGhOVjkEdRT5ApNuCS61Eo=5FCIDNz03SeiuknC54qSj8wqBIvv519ITVB5fadL92?=
+ =?utf-8?q?cLAYQguoG=5FdlMaW9OZqiRNcLxmgeq5ovn4Xf0mppfVc=5FxiimN6A6igPECJG0M?=
+ =?utf-8?q?LGT7EvLThFu=5FtthSF0G5z4DJsKgip6sQvHx-g1NnoDidjeVZ-cwscw-Do=5Fyur?=
+ =?utf-8?q?Eyrog--RbNYWYQAAQIA=22=7D=2C_=22category=22=3A_=5B=22account=5Fpo?=
+ =?utf-8?q?e=5Fmain=22=2C_=22email=5Ftype=5FNone=22=2C_=22ip=5Fpool=5Fmain?=
+ =?utf-8?q?=22=5D=2C_=22filters=22=3A_=7B=22bypass=5Flist=5Fmanagement=22=3A?=
+ =?utf-8?q?_=7B=22settings=22=3A_=7B=22enable=22=3A_1=7D=7D=7D=2C_=22ip=5Fpo?=
+ =?utf-8?q?ol=22=3A_=22main=22=7D?=
+X-QMSG: =?utf-8?q?n1F5GMhKgx6HOv1tYEP2x0fccMexIH6yJCwGZVauE8X9n5ByE3YT=5FdBS7O9Ag70Q?=
+ =?utf-8?q?xcdhGYRpquGA24rbj-Npp0PNUGhOVjkEdRT5ApNuCS61Eo=5FCIDNz03SeiuknC54?=
+ =?utf-8?q?qSj8wqBIvv519ITVB5fadL92cLAYQguoG=5FdlMaW9OZqiRNcLxmgeq5ovn4Xf0mp?=
+ =?utf-8?q?pfVc=5FxiimN6A6igPECJG0MLGT7EvLThFu=5FtthSF0G5z4DJsKgip6sQvHx-g1N?=
+ =?utf-8?q?noDidjeVZ-cwscw-Do=5FyurEyrog--RbNYWYQAAQIA?=
+X-CM-TRANSID:_____wCHsz0Dgepkomj3AQ--.25813S3
+Authentication-Results: zwqz-mx-mta-g3-0; spf=pass smtp.mail=noreply@p
+	oe.com; dkim=pass header.i=@poe.com
+X-Coremail-Antispam: 1Uf129KBjvJXoWxCr43Gry5ZFW3Wry8Wr4Uurg_yoW5uF1fpF
+	W5tr15Cw4Dtrn2q34kAw4xJw4Fvr93tF4rJas8Jw4UC3Z8AF9a9rW0kFyYya9xGrWfWa10
+	vw4jvF18Aan0vrJanT9S1TB71UUU0TDqnTZGkaVYY2UrUUUUjbIjqfuFe4nvWSU5nxnvy2
+	9KBjDUYxBIdaVFxhVjvjDU0xZFpf9x07b1L0OUUUUU=
+Sender: noreply@poe.com
+
+--===============5183216882061110846==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head><meta name=3D"x-apple-disable-message-reformatti=
+ng"/><meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0"/><style>body{color:#333; margin:0 auto;text-rendering:optimizeLegib=
+ility;font-feature-settings:"kern";font-kerning:normal;-moz-font-feature-se=
+ttings:"kern";-webkit-font-feature-settings:"kern"}h1,h2,h3,h4,h5,h6,th{fon=
+t-family:Roboto,sans-serif;font-weight:700;margin:0;margin-top:1.25em;margi=
+n-bottom:.75em}h1{font-size:35px;line-height:42px}h1:first-child{margin-top=
+:0}h2{font-size:22px;line-height:22px}h3{font-size:18px;line-height:16px}h4=
+,h5,h6{font-size:15px;line-height:14px}h5{font-style:italic}h6{font-weight:=
+unset;text-decoration:underline}.capitalize-h3 h3{text-transform:uppercase}=
+body,ol,p,td,ul{font-family:arial,helvetica,sans-serif;font-size:14px;line-=
+height:20px}blockquote,q{display:block;margin:1em 0;font-style:italic}block=
+quote a,q a{text-decoration:underline}blockquote{padding-left:10px;border-l=
+eft:4px solid #a6a6a6}q{color:#a6a6a6;line-height:40px;font-size:24px;text-=
+align:center;quotes:none}q a{color:#a6a6a6}code,pre{font-family:Consolas,"L=
+iberation Mono",Menlo,"Courier Prime Web",Courier,monospace;background:#f2f=
+2f2}code{padding:1px;margin:0 -1px;border-radius:3px}pre{display:block;line=
+-height:20px;text-shadow:0 1px #fff;padding:5px 5px 5px 30px;white-space:no=
+wrap;position:relative;margin:1em 0}pre:before{content:"";position:absolute=
+;top:0;bottom:0;left:15px;border-left:solid 1px #dadada}.line{margin-top:0;=
+margin-bottom:0}.align-center{text-align:center}.align-right{text-align:end=
+}div[data-section-style=3D"5"],div[data-section-style=3D"6"],div[data-secti=
+on-style=3D"7"]{margin:12px 0}ul{padding:0 0 0 40px}ul li{margin-bottom:.4e=
+m}div[data-section-style=3D"5"] ul{list-style-type:disc}div[data-section-st=
+yle=3D"5"] ul ul{list-style-type:circle}div[data-section-style=3D"5"] ul ul=
+ ul{list-style-type:square}div[data-section-style=3D"5"] ul ul ul ul{list-s=
+tyle-type:disc}div[data-section-style=3D"5"] ul ul ul ul ul{list-style-type=
+:circle}div[data-section-style=3D"5"] ul ul ul ul ul ul{list-style-type:squ=
+are}div[data-section-style=3D"6"] ul{list-style-type:decimal}div[data-secti=
+on-style=3D"6"] ul ul{list-style-type:lower-alpha}div[data-section-style=3D=
+"6"] ul ul ul{list-style-type:lower-roman}div[data-section-style=3D"6"] ul =
+ul ul ul{list-style-type:decimal}div[data-section-style=3D"6"] ul ul ul ul =
+ul{list-style-type:lower-alpha}div[data-section-style=3D"6"] ul ul ul ul ul=
+ ul{list-style-type:lower-roman}div[data-section-style=3D"7"] ul{list-style=
+-type:none}div[data-section-style=3D"7"] ul li:before{content:"\2610";posit=
+ion:absolute;display:inline;margin-right:1.2em;margin-left:-1.2em}div[data-=
+section-style=3D"7"] ul li.parent:before{content:""}div[data-section-style=
+=3D"7"] ul li.checked{text-decoration:line-through}div[data-section-style=
+=3D"7"] ul li.checked:before{content:"\2611";text-decoration:none}div[data-=
+section-style=3D"8"]{margin:12px 0}table{border-spacing:0;border-collapse:s=
+eparate;border:none;table-layout:fixed;position:relative}table td,table th{=
+padding:2px 2px 0;min-width:1.5em;word-wrap:break-word}table th{border-bott=
+om:1px solid #c7cbd1;background:#f2f2f2;font-weight:700;vertical-align:bott=
+om;color:#3a4449;text-align:center}table td{padding-top:0;border:none;verti=
+cal-align:top}table td.bold{font-weight:700}table td.italic{font-style:ital=
+ic}table td.underline{text-decoration:underline}table td.strikethrough{text=
+-decoration:line-through}table td.underline.strikethrough{text-decoration:u=
+nderline line-through}table td:first-child{border-left:hidden}table tr:firs=
+t-child td{border-top:hidden}div{font-size:14px}div[data-section-style=3D"1=
+1"]{margin-top:20px;margin-bottom:20px;margin-left:auto;margin-right:auto}d=
+iv[data-section-style=3D"11"][data-section-float=3D"0"]{clear:both;text-ali=
+gn:center}div[data-section-style=3D"11"][data-section-float=3D"1"]{float:le=
+ft;clear:left;margin-right:20px}div[data-section-style=3D"11"][data-section=
+-float=3D"2"]{float:right;clear:right;margin-left:20px}div[data-section-sty=
+le=3D"11"] img{display:block;max-width:100%;height:auto;margin:auto}div[dat=
+a-section-style=3D"11"].show-border{outline:1px solid rgba(0,0,0,.12);box-s=
+hadow:0 1px 4px 0 rgba(0,0,0,.05)}hr{width:70px;margin:20px auto}div[data-s=
+ection-style=3D"19"].placeholder{margin:.8em auto;padding:4px 0;display:blo=
+ck;color:#3d87f5;text-align:center;border:1px solid rgba(41,182,242,.2);bor=
+der-radius:3px;background:#e9f8fe;font-family:Roboto,sans-serif}div[data-se=
+ction-style=3D"19"].first-party-element{margin-bottom:10px;background-repea=
+t:no-repeat;background-size:contain}div[data-section-style=3D"19"] img{marg=
+in:.5em}div[data-section-style=3D"19"] img.masked-image{margin:0;transform-=
+origin:top left}div[data-section-style=3D"19"] .image-mask{position:relativ=
+e;overflow:hidden}body{counter-reset:indent0 indent1 indent2 indent3 indent=
+4 indent5 indent6 indent7 indent8;max-width:600px}div[data-section-style=3D=
+"6"]{counter-reset:indent0 indent1 indent2 indent3 indent4 indent5 indent6 =
+indent7 indent8}div[data-section-style=3D"6"].list-numbering-continue{count=
+er-reset:none}div[data-section-style=3D"6"].list-numbering-restart-at{count=
+er-reset:indent0 var(--indent0) indent1 indent2 indent3 indent4 indent5 ind=
+ent6 indent7 indent8}div[data-section-style=3D"6"] ul{list-style-type:none!=
+important}div[data-section-style=3D"6"] ul ul{counter-reset:indent1}div[dat=
+a-section-style=3D"6"] ul ul ul{counter-reset:indent2}div[data-section-styl=
+e=3D"6"] ul ul ul ul{counter-reset:indent3}div[data-section-style=3D"6"] ul=
+ ul ul ul ul{counter-reset:indent4}div[data-section-style=3D"6"] ul ul ul u=
+l ul ul{counter-reset:indent5}div[data-section-style=3D"6"] ul li{counter-i=
+ncrement:indent0}div[data-section-style=3D"6"] ul ul li{counter-increment:i=
+ndent1}div[data-section-style=3D"6"] ul ul ul li{counter-increment:indent2}=
+div[data-section-style=3D"6"] ul ul ul ul li{counter-increment:indent3}div[=
+data-section-style=3D"6"] ul ul ul ul ul li{counter-increment:indent4}div[d=
+ata-section-style=3D"6"] ul ul ul ul ul ul li{counter-increment:indent5}div=
+[data-section-style=3D"6"] ul li:before{content:counter(indent0,decimal) ".=
+ "}div[data-section-style=3D"6"] ul ul li:before{content:counter(indent1,lo=
+wer-alpha) ". "}div[data-section-style=3D"6"] ul ul ul li:before{content:co=
+unter(indent2,lower-roman) ". "}div[data-section-style=3D"6"] ul ul ul ul l=
+i:before{content:counter(indent3,decimal) ". "}div[data-section-style=3D"6"=
+] ul ul ul ul ul li:before{content:counter(indent4,lower-alpha) ". "}div[da=
+ta-section-style=3D"6"] ul ul ul ul ul ul li:before{content:counter(indent5=
+,lower-roman) ". "}</style></head><body>Hi everyone,<br><br>We want to upda=
+te you on some of the recently launched features and new bots that we hope =
+improve the experience on Poe. We hope you try them and send us any feedbac=
+k!<br><br><div class=3D"" data-section-style=3D"5" style=3D""><ul><li class=
+=3D"" value=3D"1"><b>Threading:</b> Your conversations on Poe are now organ=
+ized into separate chats. You can have multiple simultaneous conversations =
+with the same bot or go back to a previous conversation and continue from t=
+here. And if you continue a conversation that someone else shared with you,=
+ it will be separate from any other chats you have going with that bot.<br>=
+</li><li class=3D""><b>Bot search: </b>You can now search for specific bots=
+ on Poe!  Search is available at the top of the Explore page.  You can also=
+ search for people using the tab at the top of the search results.  This fe=
+ature is available on iOS, web, and MacOS and is coming soon on Android. If=
+ you are on iOS, you may need to upgrade to the latest version.<br></li><li=
+ class=3D""><b>Llama 2:</b> We have three new bots powered by Llama 2, a la=
+rge language model that Meta released. You can try it here: <a href=3D"http=
+s://poe.com/Llama-2-70b">https://poe.com/Llama-2-70b</a>. We are looking fo=
+rward to providing access to fine-tuned versions of Llama as the community =
+creates those. If you are experimenting with fine-tuning Llama or any other=
+ model, it=E2=80=99s easy to use Poe as a frontend for your model via our A=
+PI. Try <a href=3D"https://developer.poe.com/api-bots/quick-start">develope=
+r.poe.com</a> to get started. We are also interested in helping to host fin=
+e-tuned versions of Llama so that developers don=E2=80=99t have to manage a=
+ server or pay large costs if their bot becomes popular.  Please reach out =
+to us at <a href=3D"mailto:developers@poe.com">developers@poe.com</a> if yo=
+u are interested in participating in this program.<br></li><li class=3D""><=
+b>Custom temperature: </b>You can now adjust the temperature on prompt bots=
+ you create. This gives some control over the creativity of prompt bot resp=
+onses. Higher temperature values create more varied but less predictable re=
+plies and lower values create more consistent responses. Try <a href=3D"htt=
+ps://poe.com/create_bot">poe.com/create bot</a> to create your own prompt b=
+ot, or if you want to explore the hundreds of thousands of bots on Poe, you=
+ can see them at <a href=3D"https://poe.com/explore_bots?category=3DPopular=
+">poe.com/explore</a>. Note that if you create bots based on the Poe API, y=
+ou have unlimited control over bot output.<br></li><li class=3D""><b>Poe fo=
+r Mac:</b> You can now download Poe for Mac from <a href=3D"https://poe.com=
+/download">poe.com/download</a> for one-click access from your system dock.=
+ All bots from across Poe are available and all your conversations from Poe=
+ on other platforms will sync to Poe on Mac.<br></li><li class=3D""><b>Poe =
+in Japanese:</b> Now available across iOS, Android, MacOS, and web. We look=
+ forward to having more Japanese speakers use Poe to chat with a wide varie=
+ty of AI-powered bots or to create their own bots.  If you speak Japanese, =
+ please follow <a href=3D"https://twitter.com/poe_platformjp">@poe_platform=
+jp</a> for updates.  While Japanese is our first language for Poe outside o=
+f English, we are committed to providing Poe in other languages over the co=
+ming months.<br></li></ul></div>Additionally, Poe is <b>developing an Enter=
+prise package</b>, so that businesses can purchase Poe=E2=80=99s benefits f=
+or their employees. To secure your spot in line and help shape the offering=
+, <a href=3D"https://forms.gle/2zRtbrrft5AvdhKr9">join the waitlist</a>.<br=
+><br>As always, thanks to everyone who has been providing feedback, and ple=
+ase keep it coming via <a href=3D"mailto:feedback@poe.com">feedback@poe.com=
+</a> so we can continue to prioritize our development efforts! And please <=
+a href=3D"https://twitter.com/poe_platform">follow us on Twitter</a> for mo=
+re frequent updates.<br><br>Thank you!<br>The Poe team<br><br> If you'd lik=
+e to unsubscribe from these updates, please <a href=3D"https://poe.com/unsu=
+bscribe?c=3Dfcdcb87e23a08d54ecdc060949e2b4f6&e=3Dtengyoubiao@126.com">click=
+ here</a>.<br><br><table role=3D"module" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%" style=3D"table-layout:fixed;border:0"><tbody>=
+<tr><td style=3D"padding:18px 0 18px 0;line-height:22px;text-align:inherit"=
+ height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-content"><div><=
+div style=3D"font-family:inherit;text-align:center"><span style=3D"color:#9=
+39598;font-family:arial,helvetica,sans-serif;font-size:11px;font-style:norm=
+al;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;l=
+etter-spacing:normal;text-align:center;text-indent:0;text-transform:none;wo=
+rd-spacing:0;background-color:#fff;text-decoration-style:initial;text-decor=
+ation-color:initial;float:none;display:inline">This email was sent by <span=
+ class=3D"il">Poe</span> (605 Castro Street, Mountain View, CA 94041).&nbsp=
+;</span></div><div></div></div></td></tr></tbody></table></body></html>
+--===============5183216882061110846==--
